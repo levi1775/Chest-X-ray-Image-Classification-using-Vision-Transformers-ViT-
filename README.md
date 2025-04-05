@@ -41,9 +41,11 @@ We used the popular **Chest X-ray dataset from Kaggle**:
 
 ### ⚙️ 1. Clone the Repository
 
-```bash
-git clone https://github.com/<your-username>/ViT-ChestXray-Classifier.git
-cd ViT-ChestXray-Classifier
+``bash
+ git clone https://github.com/<your-username>/ViT-ChestXray-Classifier.git
+ cd ViT-ChestXray-Classifier
+
+
 🐍 2. Install Dependencies
 bash
 Copy
